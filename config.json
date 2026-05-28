@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingcecrypt",
+        "uuid": 4516509,
+        "checksum": "lzb68n"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
